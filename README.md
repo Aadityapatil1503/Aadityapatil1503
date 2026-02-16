@@ -59,8 +59,7 @@ Hi there! I'm **Aaditya S Patil**, a passionate **Developer**  with a strong int
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadityapatil1503&show_icons=true&theme=tokyonight" />
-  <br/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityapatil1503&theme=tokyonight" />
 </p>
 
