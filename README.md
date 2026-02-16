@@ -44,9 +44,8 @@ Hi there! I'm **Aaditya S Patil**, a passionate **Developer**  with a strong int
   <a href="https://www.linkedin.com/in/aaditya-patil-a4b369270/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  <a href="https://wa.me/918618624251">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+   <a href="https://wa.me/918618624251">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
   </a>
   
   <a href="https://instagram.com/aaditya_153">
